@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="botonescalculadora">
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_marginRight">7dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingBottom">50dp</item>
+    </style>
+</resources>
